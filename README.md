@@ -1,4 +1,8 @@
-# lse-demo
+# Xpring SDK Demo / Deconstructing DeFi
+
+Demo repository for code shown off at Deconstructing DeFi @ London School of Economics on March 7, 2020.
+
+## Building
 
 Node
 ```
