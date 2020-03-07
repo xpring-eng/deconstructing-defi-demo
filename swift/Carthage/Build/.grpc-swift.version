@@ -1,0 +1,23 @@
+{
+  "commitish" : "0.9.1",
+  "Mac" : [
+    {
+      "name" : "SwiftGRPC",
+      "hash" : "7d1d08bf21097019960d128d4f7e77843ac610de014b1b3fdf387e30c5a24bbf",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    },
+    {
+      "name" : "BoringSSL",
+      "hash" : "f19bcf8022c54c83f9d7863113e2ed9558f5424d6f2afbbe6bf3198723fce474"
+    },
+    {
+      "name" : "CgRPC",
+      "hash" : "872f25c74112e04dd5eb31d2a4dab6c605c6a358facccb541040f04053859e6d"
+    },
+    {
+      "name" : "SwiftProtobuf",
+      "hash" : "6b699a6a6cf8c710421aa4a5c355786a646193b7975595167c445e145e09d8cf",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    }
+  ]
+}

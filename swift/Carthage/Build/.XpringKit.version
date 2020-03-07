@@ -1,0 +1,10 @@
+{
+  "commitish" : "41ae4edd0bd2bb1c3746ba3918659bd55689cf4d",
+  "Mac" : [
+    {
+      "name" : "XpringKit",
+      "hash" : "41f57bf83c133ac9f21107b3197ec486e6652e32f90158fc88d4281ac4f253b4",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    }
+  ]
+}
