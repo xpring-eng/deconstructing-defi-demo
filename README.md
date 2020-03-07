@@ -4,21 +4,21 @@ Demo repository for code shown off at Deconstructing DeFi @ London School of Eco
 
 ## Building
 
-Node
+### Node
 ```
 cd node
 node src/index-xrp.js
 node src/index-ilp.js
 ```
 
-Java
+### Java
 ```
 cd java
 mvn package exec:java@xrp
 mvn package exec:java@xilp
 ```
 
-Swift
+### Swift
 ```
 cd swift
 open XpringKit.xcodeproj
